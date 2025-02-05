@@ -8,13 +8,18 @@ This repo contains a collection of small, fun, and educational Front-end project
 ---
 
 ## Projects Included 📂
-- **Project 1**: ATM-Simulator 💳  
-- **Project 2**: CRUD App 📋
-- **Project 3**: Music-Player 🎶  
-- **Project 4**: Random_Password_generator 🔑 
-- **Project 5**: Voice-Assistant 🎤
-- 
 
+- **Project 1**: Movie Time 
+- **Project 2**: New Blog
+- **Project 3**: Personal Porfolio  
+- **Project 4**: Product Card Design 
+- **Project 5**: Responsive Landing Page
+- **Project 6**: Sample Website
+- **Project 7**: Stopwatch Web App
+- **Project 8**: Tic Tac Toe Web App
+- **Project 9**: Weather App
+
+  
 > **Note:** Each project is standalone and can be easily run on your local machine. Check the individual project folders for detailed instructions.
 
 ---
